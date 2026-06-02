@@ -20,49 +20,65 @@ Soy estudiante avanzado de **Ingeniería en Sistemas de Información** en la **U
 ### 💻 &nbsp;Lenguajes de Programación
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript&theme=dark" alt="Lenguajes" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript&theme=dark" alt="Lenguajes" />
+  </a>
 </p>
 
 ### 🎨 &nbsp;Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark" alt="Frontend" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark" alt="Frontend" />
+  </a>
 </p>
 
 ### ⚙️ &nbsp;Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,dotnet&theme=dark" alt="Backend" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,dotnet&theme=dark" alt="Backend" />
+  </a>
 </p>
 
 ### 🗄️ &nbsp;Bases de Datos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Bases de Datos" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Bases de Datos" />
+  </a>
 </p>
 
 ### ☁️ &nbsp;Microservicios & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&theme=dark" alt="Microservicios" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&theme=dark" alt="Microservicios" />
+  </a>
 </p>
 
 ### 🔧 &nbsp;DevOps & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman&theme=dark" alt="DevOps" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman&theme=dark" alt="DevOps" />
+  </a>
 </p>
 
 ### 📊 &nbsp;Monitoreo & Observabilidad
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoreo" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoreo" />
+  </a>
 </p>
 
 ### 🧪 &nbsp;Testing & Calidad
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" alt="Testing" />
+  <a href="https://github.com/adrielc-dev">
+    <img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" alt="Testing" />
+  </a>
 </p>
 
 ---
