@@ -144,10 +144,6 @@ Soy estudiante avanzado de **Ingeniería en Sistemas de Información** en la **U
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=adrielc-dev&color=1f6feb&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Visitas al Perfil"/>
-
-<br><br>
-
 <a href="https://github.com/adrielc-dev">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
 </a>
