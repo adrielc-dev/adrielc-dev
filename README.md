@@ -3,28 +3,14 @@
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adriel%20Coria&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20Estudiante%20de%20Ing.%20en%20Sistemas&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=70&lines=Construyendo+backends+robustos+%26+frontends+modernos;Microservicios+%7C+Cloud+%7C+DevOps+%7C+C%C3%B3digo+Limpio)](https://git.io/typing-svg)
-
 </div>
 
 <!-- SOBRE MÍ -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;Sobre Mí
 
-```yaml
-nombre: Adriel Coria
-ubicacion: Córdoba, Argentina
-educacion: Ingeniería en Sistemas de Información - UTN FRC (2019–2027)
-rol_actual: Desarrollador Full Stack
-idiomas: ["Español (Nativo)", "Inglés (B1)"]
-intereses:
-  - Arquitectura de Microservicios
-  - Cloud & DevOps
-  - Código Limpio & Patrones de Diseño
-  - Arquitectura Orientada a Eventos
-```
+Soy estudiante avanzado de **Ingeniería en Sistemas de Información** en la **UTN - Facultad Regional Córdoba**, apasionado por el desarrollo de software y la construcción de sistemas escalables. Tengo experiencia profesional como **Desarrollador Full Stack** trabajando con tecnologías como React, Django REST Framework, Spring Boot y Docker. Me especializo en arquitectura de microservicios, APIs RESTful y prácticas de DevOps. Priorizo el código limpio, los patrones de diseño y la comunicación efectiva en equipo para lograr resultados de calidad.
 
-> Soy estudiante avanzado de Ingeniería de Sistemas con experiencia en desarrollo full stack, construcción de APIs RESTful y arquitectura de microservicios. Me apasiona escribir código limpio, aplicar buenas prácticas de diseño y construir sistemas escalables y resilientes.
+📍 Córdoba, Argentina &nbsp;·&nbsp; 🌐 Español (Nativo) · Inglés (B1)
 
 ---
 
