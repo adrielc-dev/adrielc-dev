@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adriel%20Coria&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20Estudiante%20de%20Ing.%20en%20Sistemas&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+<a href="https://github.com/adrielc-dev">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Adriel%20Coria&fontSize=60&fontColor=58a6ff&fontAlignY=35&desc=Desarrollador%20Full%20Stack%20%7C%20Estudiante%20de%20Ing.%20en%20Sistemas&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
+</a>
 
 </div>
 
@@ -146,6 +148,8 @@ Soy estudiante avanzado de **Ingeniería en Sistemas de Información** en la **U
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+<a href="https://github.com/adrielc-dev">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer" width="100%"/>
+</a>
 
 </div>
