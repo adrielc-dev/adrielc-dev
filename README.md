@@ -10,7 +10,7 @@
 
 Soy estudiante avanzado de **Ingeniería en Sistemas de Información** en la **UTN - Facultad Regional Córdoba**, apasionado por el desarrollo de software y la construcción de sistemas escalables. Tengo experiencia profesional como **Desarrollador Full Stack** trabajando con tecnologías como React, Django REST Framework, Spring Boot y Docker. Me especializo en arquitectura de microservicios, APIs RESTful y prácticas de DevOps. Priorizo el código limpio, los patrones de diseño y la comunicación efectiva en equipo para lograr resultados de calidad.
 
-📍 Córdoba, Argentina &nbsp;·&nbsp; 🌐 Español (Nativo) · Inglés (B1)
+📍 Córdoba, Argentina
 
 ---
 
@@ -20,65 +20,49 @@ Soy estudiante avanzado de **Ingeniería en Sistemas de Información** en la **U
 ### 💻 &nbsp;Lenguajes de Programación
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript&theme=dark" alt="Lenguajes" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,typescript&theme=dark" alt="Lenguajes" />
 </p>
 
 ### 🎨 &nbsp;Frontend
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark" alt="Frontend" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css&theme=dark" alt="Frontend" />
 </p>
 
 ### ⚙️ &nbsp;Backend
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,dotnet&theme=dark" alt="Backend" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express,dotnet&theme=dark" alt="Backend" />
 </p>
 
 ### 🗄️ &nbsp;Bases de Datos
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Bases de Datos" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" alt="Bases de Datos" />
 </p>
 
 ### ☁️ &nbsp;Microservicios & Cloud
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&theme=dark" alt="Microservicios" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=spring,kafka,rabbitmq&theme=dark" alt="Microservicios" />
 </p>
 
 ### 🔧 &nbsp;DevOps & Herramientas
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman&theme=dark" alt="DevOps" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman&theme=dark" alt="DevOps" />
 </p>
 
 ### 📊 &nbsp;Monitoreo & Observabilidad
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoreo" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="Monitoreo" />
 </p>
 
 ### 🧪 &nbsp;Testing & Calidad
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" alt="Testing" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" alt="Testing" />
 </p>
 
 ---
